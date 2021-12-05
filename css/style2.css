@@ -1,0 +1,42 @@
+.col-md-12{
+    padding: 0;
+    margin: 0;
+}
+.col-md-6{
+    padding-left: 0;
+}
+.col-md-3{
+    padding-left: 0;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    align-items: center;
+}
+.items ul{
+    margin:0;
+    padding:0;
+}
+.items ul li{
+    list-style: none;
+}
+.carousel-control-prev span{
+    margin-right:230px;
+}
+.carousel-control-next span{
+    margin-right:-230px;
+}
+.carousel a span{
+    color: blue!important;
+}
+.fix {
+    position: relative;
+    top:5px;
+}
+.fix2{
+    margin-left: 50px;
+}
+.fix3{
+    position: relative;
+    left: 15px;
+}
