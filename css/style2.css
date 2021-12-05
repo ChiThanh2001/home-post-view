@@ -32,6 +32,7 @@
 .fix {
     position: relative;
     top:5px;
+    left: 10px;
 }
 .fix2{
     margin-left: 50px;
@@ -39,4 +40,24 @@
 .fix3{
     position: relative;
     left: 15px;
+}
+.fix4{
+    margin-left: 220px;
+    margin-top: 50px;
+}
+.fix5{
+    position: relative;
+    right: 20px;
+}
+.fix6{
+    margin-top: 10px;
+}
+.btn{
+    width: 70px;
+    height: 30px;
+    line-height: 10px;
+    border-radius: 3px;
+}
+.fix7{
+    margin-left: 20px;
 }
